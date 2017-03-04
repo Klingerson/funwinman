@@ -10,7 +10,7 @@
   * Extract zip file
   * Run funwinman.bat 
 * Alternatively you can use Git Shell
-* git clone git@github.com:<username>/funwinman.git
+* git@github.com:coffeejoshua/funwinman.git
 * (use copy to clipboard link above)
 
 ** AUDIENCE **
