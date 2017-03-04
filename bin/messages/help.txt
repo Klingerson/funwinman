@@ -1,0 +1,72 @@
+winmanscript - Windows Manual in Interactive Script Form!
+
+*** HELP ***
+Pree <return> to go to next line
+Press <space> to go to next page
+
+*** AUDIENCE ***
+This program is ideal for students, tech support professionals, sysadmins, etc.
+
+
+*** PURPOSE ***
+I thought it would be fun to learn the windows command shell in a more friendly and safe envrionmet.
+This is a help manual and educational book in interactive script form.
+
+Eventually, you'll want to know a few hundred WIN* and *NIX commands.  That can overwhelming at first.
+This interactive tutorial will focus on the most commonly used commands and concepts. The rest will come naturally!
+
+
+*** WHY LEARN A SHELL ***
+Unless you're a kernel developer, you only have two major avenues to speak to your kernel:
+a GUI (graphical shell) - *clicking sounds*.
+a CLI (shell) - *typing sounds*.
+Both give you a different superpower :).
+
+
+*** WHAT IS A SHELL ***
+It's not a unicorn! It's a program that converts your commands to kernel talk and vice versa.
+You're not afraid of programs, are you?!
+
+
+*** WHY NOT LINUX OR ANOTHER LANGUAGE ***
+Why not both?  I like to start here because it is familiar and simple.
+After this tutorial, review the source code to see how these things are made.
+After that, I recommend Bash or Powershell.
+Feeling adventurious? Learn git, then Python! (Free books below).
+
+*** YOU CAN PRESS "q" TO EXIT THIS  ***
+You don't have to keep reading the stuff below.
+
+
+*** OPEN SOURCE ***
+I plan to put this on github and release under apache 2... i'll update this later!
+
+
+*** CONTACT ME ***
+Joshua Fox
+coffeejoshua @ gmail
+
+
+*** A SPECIAL THANKS ***
+Julia Evans
+"ZINES" - Wonderful unpretentious technical comics
+https://jvns.ca/
+
+William E. Shotts, Jr.
+"The Linux Command Line"
+http://linuxcommand.org/tlcl.php - Great free book to learn bash!
+
+Runestone Interactive Project at Luther College
+"How to think like a computer scientist"
+interactivepython.org - Great free book to learn python!
+
+Kim Ziebarth
+Davis Applied Tech College
+
+Brent Blackburn
+Farmington Junior High School
+
+And a great number of:
+    professional coleagues
+    family
+	friends

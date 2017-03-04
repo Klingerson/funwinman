@@ -1,0 +1,8 @@
+*** Main Menu - Learn the CMD shell! ***
+[help]		Start here! Help, about, purpose
+[cmd]		Launch a real CMD shell to test commands
+[navi]		Book 1 Navigation, Working with CLI
+[config]	Book 2 Configure Windows
+[trouble]	Book 3 Troubleshooting software, hardware, networking
+[program]	Book 4 Develop your own batch files
+[quit]		Exit the program

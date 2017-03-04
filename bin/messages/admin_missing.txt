@@ -1,0 +1,4 @@
+Warning:
+The script isn't running as an Administrator.
+This is okay, but some commands will fail (like packet capture).
+To uses these, right click the batch file and run as administraotr.

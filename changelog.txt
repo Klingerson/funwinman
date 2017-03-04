@@ -1,0 +1,27 @@
+2017.03.03
+:: Version: 0.1
+build main menu
+
+:: Version 0.1.1
+decide on folder hirearchy bin\<feature>
+make test feature
+
+:: Version: 0.3.1
+add messages and cmd shell launcher
+make github account
+
+2017.03.04
+:: Version 0.3.2
+add help with (premature?) rambilings
+finalize folder hirearchy:
+\bin\<book_name>\<topic>\<command>
+
+bin\messages 	a place for text files for more, stdin, type, etc
+bin\navi		book 1 Navigation, Working with CLI
+bin\config		book 2 Configure Windows
+bin\trouble		book 3 Troubleshooting software, hardware, networking
+bin\program		book 4 Develop your own batch files
+
+:: Version 0.3.3
+stable (empty) menu system ready, the real work begins!
+git initial commit
