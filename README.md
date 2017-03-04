@@ -6,12 +6,12 @@
 
 ** To Use **
 * Direct Download HTTPS
-* https://github.com/coffeejoshua/funwinman.git
+* https://github.com/coffeejoshua/funwinman/archive/master.zip  
   * Extract zip file
   * Run funwinman.bat 
 * Alternatively you can use Git Shell
 * git@github.com:coffeejoshua/funwinman.git
-* (use copy to clipboard link above)
+* (or just use copy to clipboard link above)
 
 ** AUDIENCE **
 This program is ideal for students, tech support professionals, sysadmins, etc.
